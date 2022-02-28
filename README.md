@@ -55,11 +55,12 @@ Data Source:
 
 GeoJson file for Tectonic Plates retrieved from GitHub repository: 
 
-GeoJson file for earthquakes for the past 7 days retrieved via API call from USGS website: https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_week.geojson
-
 GeoJson file for Major Earthquakes (M4.5+) for the past 7 days via API call from USGS website: https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/4.5_week.geojson
 
-GeoJson files that are specifically designed to host geographical information. GeoJson files are the industry standard for representing simple geographical features, such as points, linestrings and polygons and non-spatial attributes, such as magnitude of the earthquake, hail size, hurricane strength, elevation, etc.
+GeoJson file for earthquakes for the past 7 days retrieved via API call from USGS website: https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_week.geojson
+
+
+GeoJson files are the industry standard for representing simple geographical features, such as points, linestrings and polygons and non-spatial attributes, such as magnitude of the earthquake, hail size, hurricane strength, elevation, etc.
 
 Software:
 
