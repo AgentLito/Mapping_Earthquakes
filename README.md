@@ -2,11 +2,11 @@
 Javascript
 Project Overview
 
-For this project we are creating an interactive map that shows the latest earthquake activity around the world.
+For this project we are creating an interactive map that shows the latest earthquake activities around the world.
 
 Purpose
 
-The purpose of this project is to visually show the differences between the magnitudes of earthquakes all over the world for the last seven days.
+The purpose of this project is to show the differences visually between the magnitudes of earthquakes all over the world for the last seven days.
 
 Approach will be to use the JavaScript and the D3.js library to retrieve the coordinates and magnitudes of the earthquakes from the GeoJSON data. Also, use of the Leaflet library to plot the data on a Mapbox map through an API request and create interactivity for the earthquake data.
 
@@ -59,7 +59,7 @@ GeoJson file for earthquakes for the past 7 days retrieved via API call from USG
 
 GeoJson file for Major Earthquakes (M4.5+) for the past 7 days via API call from USGS website: https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/4.5_week.geojson
 
-GeoJson files that are specifically designed to host geographical information. GeoJson files are the industry standard for representing simple geographical features, such as points, linestrings and polygons and non-spatial attributes, such as magnitude of the earthquake, hurricane strength, hail size, elevation, etc.
+GeoJson files that are specifically designed to host geographical information. GeoJson files are the industry standard for representing simple geographical features, such as points, linestrings and polygons and non-spatial attributes, such as magnitude of the earthquake, hail size, hurricane strength, elevation, etc.
 
 Software:
 
@@ -73,6 +73,8 @@ Languages:
 JavaScript,
 HTML and CSS
 Libraries:
+
+<img width="1290" alt="all_data_three_maps" src="https://user-images.githubusercontent.com/91812090/155928651-2e468d07-6ce4-45fe-80e7-622ede255f6e.png">
 
 D3
 Leaflet
